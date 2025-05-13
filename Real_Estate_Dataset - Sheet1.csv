@@ -1,0 +1,26 @@
+Property ID,City,Property Type,BHK,Price (₹ Lakhs),Area (Sq. Ft),Seller Type,Status
+101,Mumbai,Apartment,2BHK,95,850,Builder,Available
+102,Delhi,Villa,4BHK,250,2500,Owner,Sold
+103,Bangalore,Apartment,3BHK,125,1200,Agent,Available
+104,Hyderabad,Independent House,5BHK,180,3000,Owner,Under Construction
+105,Chennai,Apartment,1BHK,45,600,Builder,Available
+106,Pune,Villa,3BHK,170,2000,Agent,Sold
+107,Kolkata,Apartment,2BHK,85,900,Owner,Available
+108,Ahmedabad,Independent House,4BHK,140,2400,Builder,Available
+109,Jaipur,Apartment,3BHK,110,1150,Agent,Sold
+110,Chandigarh,Villa,5BHK,275,3200,Owner,Available
+111,Mumbai,Apartment,1BHK,60,500,Builder,Under Construction
+112,Delhi,Independent House,3BHK,130,1800,Agent,Available
+113,Bangalore,Apartment,2BHK,90,850,Owner,Sold
+114,Hyderabad,Villa,4BHK,230,2800,Builder,Available
+115,Chennai,Apartment,3BHK,105,1100,Agent,Available
+116,Pune,Independent House,5BHK,185,3100,Owner,Sold
+117,Kolkata,Villa,3BHK,165,1900,Agent,Available
+118,Ahmedabad,Apartment,2BHK,75,800,Builder,Available
+119,Jaipur,Apartment,1BHK,50,550,Agent,Sold
+120,Chandigarh,Independent House,4BHK,150,2500,Owner,Available
+121,Mumbai,Villa,5BHK,280,3300,Builder,Sold
+122,Delhi,Apartment,3BHK,115,1200,Agent,Available
+123,Bangalore,Apartment,2BHK,92,900,Owner,Available
+124,Hyderabad,Independent House,4BHK,145,2200,Agent,Available
+125,Chennai,Villa,3BHK,175,2100,Builder,Sold
