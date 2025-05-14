@@ -1,0 +1,51 @@
+Accident ID,City,Date,Time,Weather Condition,Road Type,Vehicle Type,Fatalities,Injuries,Alcohol Involvement,Speeding,Seat Belt Used,Helmet Used,Traffic Signal Violation,Emergency Response Time (mins),Total Casualties
+301,Chennai,2023-01-01,Night,Clear,Expressway,Car,9,10,No,Yes,No,No,Yes,51,19
+302,Hyderabad,2023-01-08,Evening,Rainy,Expressway,Truck,4,8,Yes,No,Yes,Unknown,Yes,31,12
+303,Ahmedabad,2023-01-15,Morning,Clear,City Road,Truck,7,2,No,No,No,Yes,Yes,10,9
+304,Delhi,2023-01-22,Morning,Stormy,Rural Road,Auto-rickshaw,6,6,Yes,Yes,No,No,Yes,16,12
+305,Kolkata,2023-01-29,Night,Foggy,City Road,Bike,6,15,Yes,No,No,Unknown,Yes,55,21
+306,Delhi,2023-02-05,Evening,Stormy,Rural Road,Car,9,16,Yes,No,No,Unknown,No,23,25
+307,Chandigarh,2023-02-12,Morning,Clear,Rural Road,Auto-rickshaw,5,9,No,No,No,No,Yes,27,14
+308,Pune,2023-02-19,Morning,Stormy,Expressway,Bus,5,4,No,Yes,Yes,Yes,No,49,9
+309,Chennai,2023-02-26,Afternoon,Rainy,Highway,Car,4,7,Yes,No,No,Unknown,Yes,15,11
+310,Ahmedabad,2023-03-05,Night,Stormy,City Road,Auto-rickshaw,7,12,No,Yes,No,No,No,51,19
+311,Mumbai,2023-03-12,Night,Foggy,Highway,Car,5,2,No,Yes,Yes,Unknown,Yes,57,7
+312,Delhi,2023-03-19,Morning,Clear,Rural Road,Car,3,6,Yes,No,Yes,No,Yes,33,9
+313,Hyderabad,2023-03-26,Morning,Clear,Highway,Auto-rickshaw,2,17,No,No,No,Unknown,Yes,34,19
+314,Jaipur,2023-04-02,Morning,Rainy,Highway,Truck,1,18,No,No,Yes,Unknown,Yes,10,19
+315,Mumbai,2023-04-09,Afternoon,Foggy,City Road,Car,0,14,No,No,No,Yes,Yes,56,14
+316,Ahmedabad,2023-04-16,Afternoon,Clear,Highway,Car,4,6,No,No,No,No,No,20,10
+317,Delhi,2023-04-23,Night,Stormy,City Road,Truck,2,10,Yes,Yes,Yes,No,No,37,12
+318,Mumbai,2023-04-30,Afternoon,Stormy,Expressway,Auto-rickshaw,0,18,Yes,No,No,Unknown,No,45,18
+319,Jaipur,2023-05-07,Evening,Clear,Highway,Bus,0,16,No,No,Yes,Yes,Yes,20,16
+320,Mumbai,2023-05-14,Afternoon,Stormy,Rural Road,Auto-rickshaw,9,13,Yes,Yes,No,Yes,Yes,9,22
+321,Bangalore,2023-05-21,Night,Stormy,Expressway,Bus,9,9,Yes,Yes,No,Yes,Yes,39,18
+322,Bangalore,2023-05-28,Afternoon,Clear,Rural Road,Truck,1,10,Yes,Yes,No,Unknown,Yes,44,11
+323,Kolkata,2023-06-04,Evening,Clear,Expressway,Bus,7,18,No,No,No,Unknown,Yes,11,25
+324,Jaipur,2023-06-11,Night,Clear,Highway,Auto-rickshaw,7,1,No,Yes,No,Yes,Yes,32,8
+325,Bangalore,2023-06-18,Morning,Clear,Highway,Auto-rickshaw,8,3,No,No,Yes,No,No,39,11
+326,Jaipur,2023-06-25,Night,Foggy,Expressway,Auto-rickshaw,3,17,No,Yes,Yes,No,Yes,54,20
+327,Chennai,2023-07-02,Night,Rainy,Rural Road,Bike,1,8,No,Yes,Yes,No,No,21,9
+328,Bangalore,2023-07-09,Afternoon,Rainy,Highway,Auto-rickshaw,6,16,Yes,No,No,Yes,Yes,21,22
+329,Pune,2023-07-16,Evening,Clear,Highway,Bus,0,1,No,No,Yes,Unknown,No,44,1
+330,Kolkata,2023-07-23,Evening,Clear,Rural Road,Bus,3,6,Yes,Yes,No,No,Yes,8,9
+331,Delhi,2023-07-30,Morning,Stormy,Highway,Truck,9,7,No,No,No,Yes,Yes,35,16
+332,Chennai,2023-08-06,Night,Rainy,Rural Road,Auto-rickshaw,9,7,Yes,Yes,Yes,No,No,40,16
+333,Pune,2023-08-13,Night,Foggy,City Road,Bike,1,15,No,Yes,No,Yes,Yes,10,16
+334,Kolkata,2023-08-20,Afternoon,Clear,City Road,Auto-rickshaw,2,12,No,No,Yes,No,Yes,55,14
+335,Delhi,2023-08-27,Night,Clear,City Road,Truck,0,10,No,No,No,No,Yes,30,10
+336,Ahmedabad,2023-09-03,Night,Stormy,Highway,Auto-rickshaw,5,17,Yes,No,Yes,No,Yes,16,22
+337,Chandigarh,2023-09-10,Evening,Stormy,Rural Road,Truck,5,11,Yes,Yes,Yes,Unknown,No,37,16
+338,Chennai,2023-09-17,Evening,Rainy,Expressway,Bike,3,2,No,No,Yes,No,Yes,42,5
+339,Mumbai,2023-09-24,Afternoon,Foggy,Expressway,Bus,1,13,No,Yes,Yes,Yes,Yes,32,14
+340,Bangalore,2023-10-01,Afternoon,Stormy,Expressway,Bus,3,12,Yes,Yes,No,No,Yes,15,15
+341,Chandigarh,2023-10-08,Afternoon,Foggy,City Road,Bike,5,4,Yes,Yes,Yes,Unknown,No,26,9
+342,Mumbai,2023-10-15,Night,Rainy,Expressway,Bike,4,16,No,Yes,No,Yes,No,6,20
+343,Kolkata,2023-10-22,Night,Stormy,Expressway,Auto-rickshaw,5,8,No,Yes,Yes,Yes,Yes,14,13
+344,Pune,2023-10-29,Night,Foggy,Highway,Car,1,5,No,Yes,Yes,No,Yes,39,6
+345,Chennai,2023-11-05,Night,Clear,Rural Road,Car,9,3,No,Yes,Yes,Yes,Yes,10,12
+346,Chandigarh,2023-11-12,Morning,Clear,Rural Road,Truck,9,8,Yes,No,No,Yes,No,17,17
+347,Jaipur,2023-11-19,Evening,Clear,Expressway,Bike,4,19,Yes,Yes,No,Unknown,No,56,23
+348,Kolkata,2023-11-26,Night,Clear,City Road,Car,9,9,No,Yes,No,No,Yes,41,18
+349,Hyderabad,2023-12-03,Afternoon,Rainy,City Road,Bus,6,14,No,Yes,No,Unknown,Yes,29,20
+350,Chennai,2023-12-10,Night,Rainy,Expressway,Truck,5,5,Yes,Yes,Yes,Unknown,Yes,57,10
