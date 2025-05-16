@@ -8,7 +8,7 @@
 
 ## 🔍 View Dashboard
 
-<a href="https://github.com/kalpana-da/tableau/blob/main/Projects/project_1/Project_1_Olympic%20Medal%20Trends%20Analysis.jpg" target="_blank">
+<a target="_blank" href="https://github.com/kalpana-da/tableau/blob/main/Projects/project_1/Project_1_Olympic%20Medal%20Trends%20Analysis.jpg">
   <img src="https://img.shields.io/badge/View%20Dashboard-Click%20Here-blue?style=for-the-badge" alt="View Dashboard">
 </a>
 
