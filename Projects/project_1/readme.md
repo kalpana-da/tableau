@@ -1,9 +1,18 @@
 
 # 🏅 Analysis of Olympic Medal Trends (1896–2008)
 
-![Olympic Dashboard](./c60c2162-bcb9-40d4-949d-47441df7867b.jpg)
 
-This project presents a comprehensive visual and analytical overview of Olympic medal data from 1896 to 2008 using dashboards and strategic insights.
+## Dashboard Preview
+
+![Olympic Medal Trends Dashboard](https://github.com/kalpana-da/tableau/raw/main/Projects/project_1/Project_1_Olympic%20Medal%20Trends%20Analysis.jpg)
+
+## 🔍 View Dashboard
+
+<a href="https://github.com/kalpana-da/tableau/blob/main/Projects/project_1/Project_1_Olympic%20Medal%20Trends%20Analysis.jpg" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Dashboard-Click%20Here-blue?style=for-the-badge" alt="View Dashboard">
+</a>
+
+<h3>This project presents a comprehensive visual and analytical overview of Olympic medal data from 1896 to 2008 using dashboards and strategic insights.</h3>
 
 ---
 
@@ -46,4 +55,4 @@ This project presents a comprehensive visual and analytical overview of Olympic 
 
 ---
 
-> 📊 Dashboard Insights Visualized with Power BI and Python for historical and comparative analysis of Olympic trends.
+> 📊 Dashboard Insights Visualized with Tableau for historical and comparative analysis of Olympic trends.
