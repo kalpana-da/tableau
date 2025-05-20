@@ -1,12 +1,11 @@
 # 🏅 Executive Summary: Supply Chain Performance Analytics for GlamourGlow Cosmetics
 
 ## Dashboard Preview
-
-![Olympic Medal Trends Dashboard](https://github.com/kalpana-da/tableau/raw/main/Projects/Project_2/Supply Chain Performance Analytics for GlamourGlow Cosmetics dashboard.jpg)
+![Supply Chain Performance Dashboard](https://github.com/kalpana-da/tableau/raw/main/Projects/    Project_2/Supply%20Chain%20Performance%20Analytics%20for%20GlamourGlow%20Cosmetics%20dashboard.jpg)
 
 ## 🔍 View Dashboard
 
-<a target="_blank" href="https://github.com/kalpana-da/tableau/blob/main/Projects/Project_2/Supply Chain Performance Analytics for GlamourGlow Cosmetics dashboard.jpg">
+<a target="_blank" href="https://github.com/kalpana-da/tableau/blob/main/Projects/%20%20%20%20Project_2/Supply%20Chain%20Performance%20Analytics%20for%20GlamourGlow%20Cosmetics%20dashboard.jpg">
   <img src="https://img.shields.io/badge/View%20Dashboard-Click%20Here-blue?style=for-the-badge" alt="View Dashboard">
 </a>
 
