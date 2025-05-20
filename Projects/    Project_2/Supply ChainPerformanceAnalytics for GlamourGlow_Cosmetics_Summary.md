@@ -1,4 +1,5 @@
-# 🏅 Executive Summary: Supply Chain Performance Analytics for GlamourGlow Cosmetics
+# 🏅 Executive Summary: 
+## Supply Chain Performance Analytics for GlamourGlow Cosmetics
 
 ## Dashboard Preview
 ![Supply Chain Performance Dashboard](https://github.com/kalpana-da/tableau/blob/main/Projects/%20%20%20%20Project_2/Supply%20Chain%20Performance%20Analytics%20for%20GlamourGlow%20Cosmetics%20dashboard.jpg)
